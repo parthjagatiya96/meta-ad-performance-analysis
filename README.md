@@ -4,7 +4,7 @@
 
 This project analyzes advertising campaign performance across **Facebook and Instagram** using an interactive **Power BI dashboard**.
 
-The dashboard helps marketing teams track **reach, engagement, conversions, and budget utilization** to evaluate campaign effectiveness and optimize advertising strategies. 
+The dashboard helps marketing teams track **reach, engagement, conversions, and budget utilization** to evaluate campaign effectiveness and optimize advertising strategies.
 
 ---
 
@@ -58,7 +58,7 @@ The report includes the following visualizations:
 * The **18–30 age group** shows the highest engagement.
 * **Female audiences** interact more with ads.
 * Engagement peaks during **late-night hours**.
-* **Stories and Carousel ads** perform best overall. 
+* **Stories and Carousel ads** perform best overall.
 
 ---
 
@@ -74,9 +74,23 @@ The report includes the following visualizations:
 ## Project Files
 
 ```
-meta_ad_performance_analysis_db.pbix
-meta_ad_performance_analysis_brd.docx
-meta_ad_performance_analysis_db_insights.docx
-meta_ad_performance_analysis_db_ss.PNG
-README.md
+meta-ad-performance-analysis/
+│
+├── data/
+│   ├── ad_events.csv
+│   ├── ads.csv
+│   ├── campaigns.csv
+│   └── users.csv
+│
+├── meta_ad_performance_analysis_db.pbix
+├── meta_ad_performance_analysis_brd.docx
+├── meta_ad_performance_analysis_db_insights.docx
+├── meta_ad_performance_analysis_db_ss.PNG
+└── README.md
 ```
+
+---
+
+## Dashboard Preview
+
+![Meta Ad Performance Dashboard](meta_ad_performance_analysis_db_ss.PNG)
