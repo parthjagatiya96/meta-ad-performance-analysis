@@ -77,5 +77,6 @@ The report includes the following visualizations:
 meta_ad_performance_analysis_db.pbix
 meta_ad_performance_analysis_brd.docx
 meta_ad_performance_analysis_db_insights.docx
+meta_ad_performance_analysis_db_ss.PNG
 README.md
 ```
