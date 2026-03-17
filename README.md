@@ -19,6 +19,15 @@ The goal of this dashboard is to:
 
 ---
 
+## Tools Used
+
+* Power BI
+* Data Modeling
+* DAX
+* Data Visualization
+
+---
+
 ## Key Metrics
 
 The dashboard tracks the following KPIs:
@@ -62,16 +71,7 @@ The report includes the following visualizations:
 
 ---
 
-## Tools Used
-
-* Power BI
-* Data Modeling
-* DAX
-* Data Visualization
-
----
-
-## Project Files
+## 📂 Project Files
 
 ```
 meta-ad-performance-analysis/
@@ -91,6 +91,6 @@ meta-ad-performance-analysis/
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Meta Ad Performance Dashboard](meta_ad_performance_analysis_db_ss.PNG)
