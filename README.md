@@ -1,5 +1,7 @@
 # Meta Ad Performance Analysis Dashboard
 
+![Meta Ad Performance Dashboard](meta_ad_performance_analysis_db_ss.PNG)
+
 ## Overview
 
 This project analyzes advertising campaign performance across **Facebook and Instagram** using an interactive **Power BI dashboard**.
@@ -71,7 +73,7 @@ The report includes the following visualizations:
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 ```
 meta-ad-performance-analysis/
@@ -88,9 +90,3 @@ meta-ad-performance-analysis/
 ├── meta_ad_performance_analysis_db_ss.PNG
 └── README.md
 ```
-
----
-
-## 📊 Dashboard Preview
-
-![Meta Ad Performance Dashboard](meta_ad_performance_analysis_db_ss.PNG)
