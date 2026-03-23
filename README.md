@@ -69,7 +69,7 @@ The report includes the following visualizations:
 * The **18–30 age group** shows the highest engagement.
 * **Female audiences** interact more with ads.
 * Engagement peaks during **late-night hours**.
-* **Stories and Carousel ads** perform best overall.
+* **Stories and Carousel ads** perform best overall. 
 
 ---
 
